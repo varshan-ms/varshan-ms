@@ -1,6 +1,11 @@
+<html>
+<head>
+  <meta name="google-site-verification" content="MZHM58pGQ95VnTbkFPKbP7NUS7SlzHc1IfQ0poesOtE" />
+</head>
+<body><h1>Hiiii 👋,</h1></body>
+</html>
 
-
-<h1 align="center">Hi 👋, I'm Varshan M S</h1>
+<h1 align="center">I'm Varshan M S</h1>
 <h3 align="center">Passionate about Network Engineering and Cybersecurity, dedicated to securing digital infrastructures and exploring cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshan-ms&label=Profile%20views&color=0e75b6&style=flat" alt="varshan-ms" /> </p>
